@@ -10,8 +10,8 @@ UI/UX prototype: https://www.figma.com/file/kFT2ZQqInHtGTw6Ny1VMNB/CNPM_-Trang-C
 
 Tech stacks: 
 
-Front-end:[...]
-Back-end:[...]
-Database:[...]
-....
+- Front-end:[...]
+- Back-end:[...]
+- Database:[...]
+- ...
 Demo online :[link to website - update later]
